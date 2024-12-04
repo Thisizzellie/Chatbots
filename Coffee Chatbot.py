@@ -1,5 +1,6 @@
 #Coffee Chatbot
-#Task: Create a python chatbot that can help cut the wait time of the normal coffe run by taking customers' order in advance.
+
+#Create a python chatbot that can help cut the wait time of the normal coffe run by taking customers' order in advance.
 
 #define a function called coffee_bot()
 def coffee_bot():
