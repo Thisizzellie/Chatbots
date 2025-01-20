@@ -45,7 +45,7 @@ class EmailAssistant:
             mail.logout()
         print("Unread emails listed successfully!")
 
-# Configuration (replace placeholders with your actual details)
+# Configuration (replace placeholders with the actual details)
 email = "your_email@example.com"
 password = "your_password"
 smtp_server = "smtp.example.com"
