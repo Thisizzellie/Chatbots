@@ -1,5 +1,5 @@
 #Coffee Chatbot
-#Create a python chatbot that can help cut the wait time of the normal coffe run by taking customers' order in advance.
+#Create a python chatbot that can help cut the wait time of the normal coffe run by taking customers' order in advance..
 
 #define a function called coffee_bot()
 def coffee_bot():
@@ -70,4 +70,5 @@ def print_message():
 #At the bottom of the script, call your function. Run the script to see the greeting. 
 # Call coffee_bot()!
 coffee_bot()
+
 
